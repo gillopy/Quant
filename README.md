@@ -1,2 +1,2 @@
 # Quant
-Scrits python para finanzas cuantitativas.
+Scripts python para finanzas cuantitativas.
